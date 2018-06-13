@@ -1,0 +1,127 @@
+//*********************************************
+//		Assets
+//*********************************************
+@import "_base/reset"
+@import "_base/grid" 
+
+//*********************************************
+//		Blocks
+//*********************************************
+html, body
+  font-size: 10px
+*
+  box-sizing: border-box
+.nav
+  width: 100vw
+  max-width: 100%
+  background-color: grey
+  &__items
+    padding-top: 45px
+    width: 100%
+    display: flex
+    font-size: 1.4rem
+    font-family: OpenSansSemiBold
+    justify-content: space-between
+    padding-bottom: 120px
+    text-transform: uppercase
+  &__logo
+    +col(1.5)
+    img
+      max-width: 100%
+      height: auto
+  &__lang
+    +col(1)
+    text-align: center
+    margin-top: 5px
+    button
+      background: none
+      border: none
+      color: #fff
+      span
+        display: inline-block
+        position: relative
+        &::after
+          content: ''
+          position: absolute
+          width: 2px
+          height: 10px
+          top: 5px
+          left: 23px
+          background-color: #fff
+          transform: rotate(-25deg)
+        &::before
+          content: ''
+          position: absolute
+          width: 2px
+          height: 10px
+          top: 5px
+          left: 27px
+          background-color: #fff
+          transform: rotate(25deg)
+    ul
+      display: none
+  &__menu
+    +col(5)
+    display: flex
+    line-height: 2.6
+    line-height: 
+    justify-content: space-between
+    a 
+      color: #fff
+  &__btn
+    text-align: center
+    line-height: 2.6
+    border-top-right-radius: 25px
+    border-top-left-radius: 25px
+    border-bottom-right-radius: 25px
+    border-bottom-left-radius: 25px
+    background-color: #99b9ec
+    box-shadow: 0 0 20px rgba(153, 185, 236, 0.7)
+    a 
+      padding: 23px 30px 26px 30px
+      color: #fff
+    &--home
+      line-height: 2.6
+      text-align: center
+      border-top-right-radius: 25px
+      border-top-left-radius: 25px
+      border-bottom-right-radius: 25px
+      border-bottom-left-radius: 25px
+      box-shadow: 0 0 20px rgba(60, 209, 176, 0.7)
+      a
+        padding: 22px 26px 22px 20px
+        color: #fff
+        img
+          margin-right: 10px
+.header
+  width: 100vw
+  max-width: 100% 
+  &__left
+    +col(4)
+    &__title
+      font-family: RubikBold
+      font-size: 6rem
+      padding: 30px 0
+      // color: #fff
+    &__subtitle
+      font-family: RubikRegular
+      font-size: 2.8rem
+      padding-bottom: 40px
+      // color: #fff
+    &__counter
+      &__title
+        text-align: center
+        border-bottom: 4px solid #31e3a6
+        border-radius: 1px
+        &--text
+          background-color: #31e3a6
+          border-top-left-radius: 25px
+          border-top-right-radius: 25px
+          padding: 7px 25px
+          font-family: OpenSansBold
+          font-size: 1.6rem
+          display: inline-block
+          text-transform: uppercase
+  &__right
+    +col(7)
+    background-color: black

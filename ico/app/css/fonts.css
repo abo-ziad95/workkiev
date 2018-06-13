@@ -1,0 +1,111 @@
+	@font-face {
+			font-family: "OpenSansRegular";
+			src: url("../fonts/Open_Sans/OpenSans-Regular.eot");
+			src: url("../fonts/Open_Sans/OpenSans-Regular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-Regular.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansLight";
+			src: url("../fonts/Open_Sans/OpenSans-Light.eot");
+			src: url("../fonts/Open_Sans/OpenSans-Light.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-Light.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-Light.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansItalic";
+			src: url("../fonts/Open_Sans/Open-SansItalic.eot");
+			src: url("../fonts/Open_Sans/Open-SansItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/Open-SansItalic.woff") format("woff"),
+			url("../fonts/Open_Sans/Open-SansItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansBold";
+			src: url("../fonts/Open_Sans/OpenSans-Bold.eot");
+			src: url("../fonts/Open_Sans/OpenSans-Bold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-Bold.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansExtraBold";
+			src: url("../fonts/Open_Sans/OpenSans-ExtraBold.eot");
+			src: url("../fonts/Open_Sans/OpenSans-ExtraBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-ExtraBold.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansExtraBoldItalic";
+			src: url("../fonts/Open_Sans/OpenSans-ExtraBoldItalic.eot");
+			src: url("../fonts/Open_Sans/OpenSans-ExtraBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-ExtraBoldItalic.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansBoldItalic";
+			src: url("../fonts/Open_Sans/OpenSans-BoldItalic.eot");
+			src: url("../fonts/Open_Sans/OpenSans-BoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-BoldItalic.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-BoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansSemiBold";
+			src: url("../fonts/Open_Sans/OpenSans-SemiBold.eot");
+			src: url("../fonts/Open_Sans/OpenSans-SemiBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-SemiBold.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-SemiBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	@font-face {
+			font-family: "OpenSansSemiBoldItalic";
+			src: url("../fonts/Open_Sans/OpenSans-SemiBoldItalic.eot");
+			src: url("../fonts/Open_Sans/OpenSans-SemiBoldItalic.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Open_Sans/OpenSans-SemiBoldItalic.woff") format("woff"),
+			url("../fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+		@font-face {
+			font-family: "RubikBold";
+			src: url("../fonts/Rubik/Rubik-Bold.eot");
+			src: url("../fonts/Rubik/Rubik-Bold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Rubik/Rubik-Bold.woff") format("woff"),
+			url("../fonts/Rubik/Rubik-Bold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+			@font-face {
+			font-family: "RubikRegular";
+			src: url("../fonts/Rubik/Rubik-Regular.eot");
+			src: url("../fonts/Rubik/Rubik-Regular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/Rubik/Rubik-Regular.woff") format("woff"),
+			url("../fonts/Rubik/Rubik-Regular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+	
